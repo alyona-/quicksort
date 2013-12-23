@@ -1,0 +1,47 @@
+body {
+    margin: 0;
+    padding: 0;
+    width: 980px;
+    background: silver;
+    background: linear-gradient(to right top, ##A9A9A9, ##F0F0F0);
+    font-family: Arial;
+}
+.form {
+    width: 400px;
+    height: 100px;
+    margin: 0 auto;
+    display: block;
+    position: relative;
+    }
+h2 {
+    text-align: center;
+}
+input {
+    width: 60px;
+}
+label {
+    width: 65px;
+    display: inline-block;
+    color: midnightblue;
+}
+.button {
+    width: 100px;
+    height: 30px;
+    border-radius: 20px;
+    background: lightblue;
+    position: relative;
+    margin-left: 250px;
+    margin-top: 10px;
+}
+.title {
+    text-align: center;
+}
+
+.text_form__title {
+    color: #1F1268;
+    text-align: center;
+}
+.text_form__text {
+    color: #150D47;
+    text-align: center;
+}
